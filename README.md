@@ -6,16 +6,27 @@ This is a real-time chat application built with Node.js, Express.js, MongoDB, an
 
 Key Features:
 User Authentication: JWT-based authentication for secure login and registration.
+
 Real-Time Messaging: Real-time message exchange using Socket.io.
+
 Group Chat and Private Messaging: Ability to create chat rooms and send private messages.
+
 Message History: All messages are stored in MongoDB for later retrieval.
+
 Search Messages: Ability to search for messages in the chat history.
+
 Technologies Used:
+
 Node.js: JavaScript runtime for building the server.
+
 Express.js: Web framework for handling HTTP requests.
+
 MongoDB: NoSQL database for storing users, messages, and chat rooms.
+
 Socket.io: Real-time WebSocket communication for sending/receiving messages.
+
 JWT: JSON Web Tokens for secure user authentication.
+
 Installation
 Prerequisites
 Before you begin, ensure you have the following installed:
