@@ -1,5 +1,7 @@
 Real-Time Chat Application
+
 Description
+
 This is a real-time chat application built with Node.js, Express.js, MongoDB, and Socket.io. The application allows users to authenticate using JWT tokens, send real-time messages to individual users or group chat rooms, and view message history. The application provides an efficient and scalable way to communicate in both private and group settings.
 
 Key Features:
